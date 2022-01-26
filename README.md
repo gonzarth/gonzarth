@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey, I'm Arthur 👋
 
-<!--
-**gonzarth/gonzarth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+***
 
-Here are some ideas to get you started:
+I'm an award-winning data scientist based in Brazil. Currently I'm pursuing a master's degree in computational neuroscience at the Federal University of Pará. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 &nbsp; I’m currently working as a **Data Science Researcher @ Vale Institute of Technology (ITV-DS)**.
+- 🌱 &nbsp; I’m looking to collaborate in **Anything on ML and/or AI**.
+- 😄 &nbsp; Pronouns: **he/him**.
+
+💬  You can follow me on twitter <a href="https://twitter.com/gonzarth">@gonzarth</a>.
+
+And in case you're wondering, most of the time I work with Python for statistical analysis, machine learning modeling and AI, as well as scripting. For cloud services I'm using GCP.
