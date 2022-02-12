@@ -4,7 +4,7 @@
 
 I'm an award-winning data scientist based in Brazil. Currently I'm pursuing a master's degree in computational neuroscience at the Federal University of Pará. 
 
-- 🔭 &nbsp; I’m currently working as a **Data Science Researcher @ Vale Institute of Technology (ITV-DS)**.
+- 🔭 &nbsp; I’m currently working as a **Data Scientist @ Wire Analytics** (a small project of mine).
 - 🌱 &nbsp; I’m looking to collaborate in **Anything on ML and/or AI**.
 - 😄 &nbsp; Pronouns: **he/him**.
 
