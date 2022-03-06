@@ -7,4 +7,4 @@ I'm an award-winning data scientist based in Brazil. Currently I'm pursuing a ma
 
 💬  You can follow me on twitter <a href="https://twitter.com/gonzarth">@gonzarth</a>.
 
-And in case you're wondering, most of the time I work with Python for statistical analysis, machine learning modeling and AI, as well as scripting. For cloud services I'm using GCP.
+Despite loving my job as a data scientist, I also love to do software engineering with Ruby & Rails. For machine learning and statistical analysis stuff I use Python, and for deployment I like to rely on <a href="https://render.com">Render.com</a> (but I also use GCP whenever its necessary).
