@@ -7,4 +7,4 @@ I'm an award-winning data scientist and software developer based in Brazil. Curr
 
 💬  You can follow me on twitter <a href="https://twitter.com/gonzarth">@gonzarth</a>.
 
-I work with Python and R to do machine learning & artificial intelligence modeling and statistical analysis on a daily basis. Besides working with data science, I also love to do software engineering with Ruby & Rails. For cloud services I use AWS.
+I work with Python to do machine learning & artificial intelligence modeling and statistical analysis on a daily basis. Besides working with data science, I also love to do software engineering with Ruby & Rails. For cloud services I use AWS.
