@@ -2,7 +2,7 @@
 
 ***
 
-I'm an award-winning data scientist based in Brazil. I hold a Master's Degree in Neuroscience, with focus on Artificial Intelligence, by the Federal University of Pará. Currently I'm working as a Data Scientist @ Data H, doing ML modeling in the context of Supply Chain.
+I'm an award-winning data scientist based in Brazil. I hold a Master's Degree in Neuroscience, with focus on Artificial Intelligence, by the Federal University of Pará. Currently I'm working as a Machine Learning Engineer @ Data H, doing ML modeling in the context of Supply Chain.
 
 
 💬  You can follow me on twitter <a href="https://twitter.com/gonzarth">@gonzarth</a>.
