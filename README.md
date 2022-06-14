@@ -7,4 +7,4 @@ I'm an award-winning data scientist based in Brazil. I hold a Master's Degree in
 
 💬  You can follow me on twitter <a href="https://twitter.com/gonzarth">@gonzarth</a>.
 
-I'm experienced with MATLAB and Python to do Machine Learning and Deep Learning modeling. Despite loving my work as a data scientist, I also love to do Software Engineering. Usually I'm able to work on any sort of end-to-end data science project, but most of the time I'm dealing with time-series modeling, both in academia and industry. For cloud service provisioning I rely on Linode.
+I'm experienced with Machine Learning and Deep Learning modeling. Besides my work as a data scientist, I also love to do software engineering. Usually I'm able to work on any sort of end-to-end data science project, but most of the time I'm dealing with time-series modeling, both in academia and industry. For cloud service provisioning I rely on Serverspace (but I can use other providers as needed).
