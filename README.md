@@ -8,4 +8,4 @@ I'm an award-winning data scientist and programmer based in Brazil. I hold a Mas
 💬  You can follow me on twitter <a href="https://twitter.com/gonzarth">@gonzarth</a>.
 
 
-I solve problems spanning from back-end development (using ruby on rails) to machine learning engineering (using python). I'm usually able to work on any end-to-end data science project, although most of the time I've been dealing with time series modeling in both academia and industry.
+I solve problems spanning from back-end development (using ruby on rails) to machine learning engineering (using python). Usually I'm able to work on any end-to-end data science project, although most of the time I've been dealing with time series modeling in both academia and industry.
